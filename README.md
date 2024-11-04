@@ -1,2 +1,2 @@
-# smart-traffic-management-system
-Main Project 
+# Smart Traffic Management System
+
